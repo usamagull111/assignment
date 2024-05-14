@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "895013924677",
+    "project_id": "newassignment-bbc55",
+    "storage_bucket": "newassignment-bbc55.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895013924677:android:5e8123ff27718decebd82c",
+        "android_client_info": {
+          "package_name": "com.example.assignment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQy6SRNrDJn3cTSCFHuiO3FkIusLseO60"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
